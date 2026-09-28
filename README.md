@@ -78,15 +78,3 @@
 - 🌐 Microsoft Edge
 
 ---
-
-## 📂 Project Structure
-
-```text
-selenium/
-│
-├── Assignment1.py
-├── Assignment2.py
-├── assignment3.py
-├── assignment4.py
-│
-└── README.md
